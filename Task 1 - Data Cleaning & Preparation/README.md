@@ -1,17 +1,23 @@
-# Task 1 - Data Cleaning & Preparation
+# DecodeLabs Data Analytics Internship
 
-## Objective
-Clean a raw dataset by identifying missing values, removing duplicates, correcting data formats, and preparing the dataset for analysis using Python and Pandas.
+## Task 1 - Data Cleaning & Preparation
 
-## Tools Used
-- Python
-- Pandas
-- Jupyter Notebook
+### Objective
+Clean the dataset by identifying missing values, checking duplicates, and preparing it for analysis.
 
-## Files
-- Data_Cleaning.ipynb
-- Dataset for Data Analytics (2).xlsx
-- Cleaned_Dataset.xlsx
+## Import Libraries
 
-## Status
-Completed ✅
+## Load Dataset
+
+## Explore Dataset
+
+## Check Missing Values
+
+## Check Duplicate Records
+
+## Handle Missing Values
+
+## Save Cleaned Dataset
+
+## Conclusion
+The dataset was successfully cleaned and prepared for analysis.
