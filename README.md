@@ -53,6 +53,34 @@ Analyze the cleaned dataset to discover patterns, trends, distributions, and out
 
 ---
 
+# Task 3: SQL Data Analysis
+
+## Objective
+Use SQL queries to extract meaningful insights from an e-commerce dataset.
+
+## SQL Concepts Used
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- COUNT()
+- SUM()
+- AVG()
+- DISTINCT
+- LIMIT
+
+## Tasks Performed
+- Retrieved records using SELECT
+- Filtered data using WHERE
+- Sorted records using ORDER BY
+- Grouped data using GROUP BY
+- Performed aggregate calculations using COUNT, SUM, and AVG
+- Analyzed product sales, order status, payment methods, and referral sources
+
+## Outcome
+Successfully extracted business insights from the dataset using SQL queries and demonstrated fundamental SQL skills for data analysis.
+
+---
 ## Author
 
 **Aiswarya K R**
