@@ -7,6 +7,7 @@ This repository contains projects completed as part of my Data Analytics Interns
 - Jupyter Notebook
 - Pandas
 - Matplotlib
+- SQL
 
 ---
 
